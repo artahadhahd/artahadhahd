@@ -2,7 +2,7 @@
 I'm a 14 year-old who started programming around 5 months ago, so don't expect much from me!
 I've been using Linux for ~3 months. (Arch Linux, BTW).
 
-So far, I've put my concentration on learning Python, C/C++, JavaScript, Rust and APL. Don't ask me why I want to learn APL!
+So far, I've put my concentration on learning Python, Bash, C/C++, JavaScript, Rust and APL. Don't ask me why I want to learn APL!
 
 I am fluent in English, German, French and Persian. So if you want to collaborate on any project, I can speak to you in any of these languages. I am learning Polish by the way.
 
