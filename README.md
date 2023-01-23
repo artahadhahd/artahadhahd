@@ -6,9 +6,11 @@ So far, I've put my concentration on learning Python, C/C++, JavaScript, Rust an
 
 I am fluent in English, German, French and Persian. So if you want to collaborate on any project, I can speak to you in any of these languages. I am learning Polish by the way.
 
-The first time I coded was actually when I was 11. Our teacher forced us to use Scratch. Back then, I didn't even know what programming languages are! I just that Scratch is just a funny game. I only discovered Linux 2 months ago; before that I didn't even know such a wonderful thing exists...
+The first time I coded was actually when I was 11. Our teacher forced us to use Scratch. Back then, I didn't even know what programming languages are! I just thought that Scratch is just a funny game, where you can make more games. ~~Well it is technically that...~~ 
+I only discovered Linux 2 months ago; before that I didn't even know such a wonderful thing exists...
+
 I have a long way to go... pleasant journey :)
 
-If you want, you can check out my website. Please contact me via Discord (The W#4545) and share your opinion about my website, feedback really helps right now.
+If you want, you can check out my website (https://artahadhahd.github.io/website-me/). Please contact me via Discord (The W#4545) and share your opinion about my website - feedback *really* helps right now.
 
 Thank you for reading; I hope you have a really nice and cozy morning/day/night/evening!
