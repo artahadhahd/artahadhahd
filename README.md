@@ -6,7 +6,7 @@ So far, I've put my concentration on learning Python, Bash, C/C++, JavaScript, R
 
 I am fluent in English, German, French and Persian. So if you want to collaborate on any project, I can speak to you in any of these languages. I am learning Polish by the way.
 
-The first time I coded was actually when I was 11. Our teacher forced us to use Scratch. Back then, I didn't even know what programming languages are! I just thought that Scratch is just a funny game, where you can make more games. ~~Well it is technically that...~~ 
+The first time I coded was actually when I was 11. Our teacher forced us to use Scratch. Back then, I didn't even know what programming languages were! I just thought that Scratch is just a funny game, where you can make more games. ~~Well it *is* technically that...~~ 
 I only discovered Linux 2 months ago; before that I didn't even know such a wonderful thing exists...
 
 I have a long way to go... pleasant journey :)
